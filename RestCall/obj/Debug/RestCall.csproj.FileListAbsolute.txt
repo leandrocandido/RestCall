@@ -1,0 +1,11 @@
+C:\referencia\RestCall\RestCall\bin\Debug\RestCall.exe.config
+C:\referencia\RestCall\RestCall\bin\Debug\RestCall.exe
+C:\referencia\RestCall\RestCall\bin\Debug\RestCall.pdb
+C:\referencia\RestCall\RestCall\bin\Debug\Newtonsoft.Json.dll
+C:\referencia\RestCall\RestCall\bin\Debug\Newtonsoft.Json.pdb
+C:\referencia\RestCall\RestCall\bin\Debug\Newtonsoft.Json.xml
+C:\referencia\RestCall\RestCall\obj\Debug\RestCall.csprojAssemblyReference.cache
+C:\referencia\RestCall\RestCall\obj\Debug\RestCall.csproj.CoreCompileInputs.cache
+C:\referencia\RestCall\RestCall\obj\Debug\RestCall.csproj.CopyComplete
+C:\referencia\RestCall\RestCall\obj\Debug\RestCall.exe
+C:\referencia\RestCall\RestCall\obj\Debug\RestCall.pdb
